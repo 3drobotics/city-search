@@ -2,7 +2,7 @@
 
 Check out the **[Demo](https://3drobotics.github.io/city-search/)**
 
-Search for your favorite city. Just type in the name in the search box and you will get results from our extensive database of awesome cities!
+This is an application meant to be used as an interviewing challenge for interviewing front-end candidates. Feel free to fork it and mess with it or whatever you like! 
 
 This is a demo application made in React.js. This build configuration is derived from [https://github.com/genarorg/webpack-react-redux](https://github.com/genarorg/webpack-react-redux).
 
