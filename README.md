@@ -1,6 +1,6 @@
 # city-search
 
-Check out the **[Demo](https://genarorg.github.io/city-search/)**
+Check out the **[Demo](https://3drobotics.github.io/city-search/)**
 
 Search for your favorite city. Just type in the name in the search box and you will get results from our extensive database of awesome cities!
 
